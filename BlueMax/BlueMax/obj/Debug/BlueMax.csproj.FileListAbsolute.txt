@@ -1,0 +1,106 @@
+F:\VS\BlueMax\BlueMax\bin\Debug\BlueMax.exe.config
+F:\VS\BlueMax\BlueMax\bin\Debug\BlueMax.exe
+F:\VS\BlueMax\BlueMax\bin\Debug\BlueMax.pdb
+F:\VS\BlueMax\BlueMax\bin\Debug\AForge.Video.DirectShow.dll
+F:\VS\BlueMax\BlueMax\bin\Debug\AForge.Video.dll
+F:\VS\BlueMax\BlueMax\bin\Debug\BitMiracle.LibTiff.NET.dll
+F:\VS\BlueMax\BlueMax\obj\Debug\BlueMax.CameraForm.resources
+F:\VS\BlueMax\BlueMax\obj\Debug\BlueMax.ImagesForm.resources
+F:\VS\BlueMax\BlueMax\obj\Debug\BlueMax.ImageShow.resources
+F:\VS\BlueMax\BlueMax\obj\Debug\BlueMax.ImagesShow.resources
+F:\VS\BlueMax\BlueMax\obj\Debug\BlueMax.MainForm.resources
+F:\VS\BlueMax\BlueMax\obj\Debug\BlueMax.LoginForm.resources
+F:\VS\BlueMax\BlueMax\obj\Debug\BlueMax.PatientForm.resources
+F:\VS\BlueMax\BlueMax\obj\Debug\BlueMax.Properties.Resources.resources
+F:\VS\BlueMax\BlueMax\obj\Debug\BlueMax.RvgForm.resources
+F:\VS\BlueMax\BlueMax\obj\Debug\BlueMax.SettingsRvg.resources
+F:\VS\BlueMax\BlueMax\obj\Debug\BlueMax.SplashScreenMain.resources
+F:\VS\BlueMax\BlueMax\obj\Debug\BlueMax.XRayEditMain2.resources
+F:\VS\BlueMax\BlueMax\obj\Debug\BlueMax.WaitFormImage.resources
+F:\VS\BlueMax\BlueMax\obj\Debug\BlueMax.XRayEdit.resources
+F:\VS\BlueMax\BlueMax\obj\Debug\BlueMax.XRayEditMain.resources
+F:\VS\BlueMax\BlueMax\obj\Debug\BlueMax.csproj.GenerateResource.Cache
+F:\VS\BlueMax\BlueMax\obj\Debug\BlueMax.exe.licenses
+F:\VS\BlueMax\BlueMax\obj\Debug\BlueMax.exe
+F:\VS\BlueMax\BlueMax\obj\Debug\BlueMax.pdb
+C:\Users\HK\Desktop\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.csprojResolveAssemblyReference.cache
+C:\Users\HK\Desktop\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.CameraForm.resources
+C:\Users\HK\Desktop\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.ImagesForm.resources
+C:\Users\HK\Desktop\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.ImageShow.resources
+C:\Users\HK\Desktop\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.ImagesShow.resources
+C:\Users\HK\Desktop\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.MainForm.resources
+C:\Users\HK\Desktop\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.LoginForm.resources
+C:\Users\HK\Desktop\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.PatientForm.resources
+C:\Users\HK\Desktop\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.Properties.Resources.resources
+C:\Users\HK\Desktop\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.RvgForm.resources
+C:\Users\HK\Desktop\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.SettingsRvg.resources
+C:\Users\HK\Desktop\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.SplashScreenMain.resources
+C:\Users\HK\Desktop\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.XRayEditMain2.resources
+C:\Users\HK\Desktop\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.WaitFormImage.resources
+C:\Users\HK\Desktop\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.XRayEdit.resources
+C:\Users\HK\Desktop\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.XRayEditMain.resources
+C:\Users\HK\Desktop\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.csproj.GenerateResource.Cache
+C:\Users\HK\Desktop\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.exe.licenses
+C:\Users\HK\Desktop\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.exe
+C:\Users\HK\Desktop\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.pdb
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\bin\Debug\BlueMax.exe.config
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\bin\Debug\BlueMax.exe
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\bin\Debug\BlueMax.pdb
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\bin\Debug\DevExpress.BonusSkins.v12.2.dll
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\bin\Debug\DevExpress.Data.v12.2.dll
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\bin\Debug\DevExpress.Printing.v12.2.Core.dll
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\bin\Debug\DevExpress.Utils.v12.2.dll
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\bin\Debug\DevExpress.XtraBars.v12.2.dll
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\bin\Debug\DevExpress.XtraEditors.v12.2.dll
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\bin\Debug\DevExpress.XtraGrid.v12.2.dll
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\bin\Debug\DevExpress.XtraLayout.v12.2.dll
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.CameraForm.resources
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.ImagesForm.resources
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.ImageShow.resources
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.ImagesShow.resources
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.MainForm.resources
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.LoginForm.resources
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.PatientForm.resources
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.Properties.Resources.resources
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.RvgForm.resources
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.SettingsRvg.resources
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.SplashScreenMain.resources
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.XRayEditMain2.resources
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.WaitFormImage.resources
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.XRayEdit.resources
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.XRayEditMain.resources
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.csproj.GenerateResource.Cache
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.exe.licenses
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.exe
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.pdb
+C:\Users\PROBEL_MUHAMMET\Desktop\Hizurr\Maxiray Proje\Beko\BlueMax\BlueMax\obj\Debug\BlueMax.csprojResolveAssemblyReference.cache
+C:\Users\musa\Desktop\BlueMax\BlueMax\bin\Debug\BlueMax.exe.config
+C:\Users\musa\Desktop\BlueMax\BlueMax\bin\Debug\BlueMax.exe
+C:\Users\musa\Desktop\BlueMax\BlueMax\bin\Debug\BlueMax.pdb
+C:\Users\musa\Desktop\BlueMax\BlueMax\bin\Debug\tr-TR\DevExpress.Data.v12.2.resources.dll
+C:\Users\musa\Desktop\BlueMax\BlueMax\bin\Debug\tr-TR\DevExpress.Printing.v12.2.Core.resources.dll
+C:\Users\musa\Desktop\BlueMax\BlueMax\bin\Debug\tr-TR\DevExpress.Utils.v12.2.resources.dll
+C:\Users\musa\Desktop\BlueMax\BlueMax\bin\Debug\tr-TR\DevExpress.XtraBars.v12.2.resources.dll
+C:\Users\musa\Desktop\BlueMax\BlueMax\bin\Debug\tr-TR\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\musa\Desktop\BlueMax\BlueMax\bin\Debug\tr-TR\DevExpress.XtraGrid.v12.2.resources.dll
+C:\Users\musa\Desktop\BlueMax\BlueMax\bin\Debug\tr-TR\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\musa\Desktop\BlueMax\BlueMax\obj\Debug\BlueMax.csprojResolveAssemblyReference.cache
+C:\Users\musa\Desktop\BlueMax\BlueMax\obj\Debug\BlueMax.CameraForm.resources
+C:\Users\musa\Desktop\BlueMax\BlueMax\obj\Debug\BlueMax.ImagesForm.resources
+C:\Users\musa\Desktop\BlueMax\BlueMax\obj\Debug\BlueMax.ImageShow.resources
+C:\Users\musa\Desktop\BlueMax\BlueMax\obj\Debug\BlueMax.ImagesShow.resources
+C:\Users\musa\Desktop\BlueMax\BlueMax\obj\Debug\BlueMax.MainForm.resources
+C:\Users\musa\Desktop\BlueMax\BlueMax\obj\Debug\BlueMax.LoginForm.resources
+C:\Users\musa\Desktop\BlueMax\BlueMax\obj\Debug\BlueMax.PatientForm.resources
+C:\Users\musa\Desktop\BlueMax\BlueMax\obj\Debug\BlueMax.Properties.Resources.resources
+C:\Users\musa\Desktop\BlueMax\BlueMax\obj\Debug\BlueMax.RvgForm.resources
+C:\Users\musa\Desktop\BlueMax\BlueMax\obj\Debug\BlueMax.SettingsRvg.resources
+C:\Users\musa\Desktop\BlueMax\BlueMax\obj\Debug\BlueMax.SplashScreenMain.resources
+C:\Users\musa\Desktop\BlueMax\BlueMax\obj\Debug\BlueMax.XRayEditMain2.resources
+C:\Users\musa\Desktop\BlueMax\BlueMax\obj\Debug\BlueMax.WaitFormImage.resources
+C:\Users\musa\Desktop\BlueMax\BlueMax\obj\Debug\BlueMax.XRayEdit.resources
+C:\Users\musa\Desktop\BlueMax\BlueMax\obj\Debug\BlueMax.XRayEditMain.resources
+C:\Users\musa\Desktop\BlueMax\BlueMax\obj\Debug\BlueMax.csproj.GenerateResource.Cache
+C:\Users\musa\Desktop\BlueMax\BlueMax\obj\Debug\BlueMax.exe.licenses
+C:\Users\musa\Desktop\BlueMax\BlueMax\obj\Debug\BlueMax.exe
+C:\Users\musa\Desktop\BlueMax\BlueMax\obj\Debug\BlueMax.pdb

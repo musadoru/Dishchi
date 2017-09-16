@@ -1,0 +1,415 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B24AD5A0-18B0-417E-9FA8-06A21006521E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BlueMax</RootNamespace>
+    <AssemblyName>BlueMax</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+    <DocumentationFile>
+    </DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>bluemax.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\BlueMax.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\BlueMax.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\BlueMax.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\BlueMax.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge.Video">
+      <HintPath>..\DLL\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow">
+      <HintPath>..\DLL\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="BitMiracle.LibTiff.NET">
+      <HintPath>..\DLL\BitMiracle.LibTiff.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.BonusSkins.v12.2">
+      <HintPath>..\..\..\..\devEXP\DevExpress.BonusSkins.v12.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v12.2">
+      <HintPath>..\..\..\..\devEXP\DevExpress.Data.v12.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v12.2.Core">
+      <HintPath>..\..\..\..\devEXP\DevExpress.Printing.v12.2.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v12.2">
+      <HintPath>..\..\..\..\devEXP\DevExpress.Utils.v12.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v12.2">
+      <HintPath>..\..\..\..\devEXP\DevExpress.XtraBars.v12.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v12.2">
+      <HintPath>..\..\..\..\devEXP\DevExpress.XtraEditors.v12.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v12.2">
+      <HintPath>..\..\..\..\devEXP\DevExpress.XtraGrid.v12.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v12.2">
+      <HintPath>..\..\..\..\devEXP\DevExpress.XtraLayout.v12.2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CameraForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CameraForm.Designer.cs">
+      <DependentUpon>CameraForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Bitmap32.cs" />
+    <Compile Include="Classes\BTCore.cs" />
+    <Compile Include="Classes\EnumManager.cs" />
+    <Compile Include="Classes\EnumObject.cs" />
+    <Compile Include="Classes\EnumOperations.cs" />
+    <Compile Include="Classes\External.cs" />
+    <Compile Include="Classes\ImageOperations.cs" />
+    <Compile Include="Classes\SettingsItem.cs" />
+    <Compile Include="DAL\Hasta.cs" />
+    <Compile Include="DAL\Images.cs" />
+    <Compile Include="Classes\Structs.cs" />
+    <Compile Include="Classes\TiffManager.cs" />
+    <Compile Include="DAL\DbContext.cs" />
+    <Compile Include="ImagesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImagesForm.Designer.cs">
+      <DependentUpon>ImagesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImageShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImageShow.Designer.cs">
+      <DependentUpon>ImageShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImagesShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImagesShow.Designer.cs">
+      <DependentUpon>ImagesShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PatientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PatientForm.Designer.cs">
+      <DependentUpon>PatientForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RvgForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RvgForm.Designer.cs">
+      <DependentUpon>RvgForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsRvg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SettingsRvg.Designer.cs">
+      <DependentUpon>SettingsRvg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreenMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreenMain.Designer.cs">
+      <DependentUpon>SplashScreenMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XRayEditMain2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XRayEditMain2.Designer.cs">
+      <DependentUpon>XRayEditMain2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WaitFormImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WaitFormImage.Designer.cs">
+      <DependentUpon>WaitFormImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XRayEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XRayEdit.Designer.cs">
+      <DependentUpon>XRayEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XRayEditMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XRayEditMain.Designer.cs">
+      <DependentUpon>XRayEditMain.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CameraForm.resx">
+      <DependentUpon>CameraForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImagesForm.resx">
+      <DependentUpon>ImagesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImageShow.resx">
+      <DependentUpon>ImageShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImagesShow.resx">
+      <DependentUpon>ImagesShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PatientForm.resx">
+      <DependentUpon>PatientForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RvgForm.resx">
+      <DependentUpon>RvgForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SettingsRvg.resx">
+      <DependentUpon>SettingsRvg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreenMain.resx">
+      <DependentUpon>SplashScreenMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XRayEditMain2.resx">
+      <DependentUpon>XRayEditMain2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WaitFormImage.resx">
+      <DependentUpon>WaitFormImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XRayEdit.resx">
+      <DependentUpon>XRayEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XRayEditMain.resx">
+      <DependentUpon>XRayEditMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bluemax-loading-logo.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxiray-loading-logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bluemax-background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\footer-logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-footer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_gor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bluemax.ico" />
+    <None Include="Resources\Red_icon.png" />
+    <None Include="Resources\Green_icon.png" />
+    <None Include="Resources\Blue_icon.png" />
+    <None Include="Resources\Refresh_icon.png" />
+    <None Include="Resources\Invert_64.png" />
+    <None Include="Resources\Emboss-e.png" />
+    <None Include="Resources\Adjust-contrast.png" />
+    <None Include="Resources\Brightness-ikon.png" />
+    <None Include="Resources\Rotation-icon-v.png" />
+    <None Include="Resources\Rotation-icon-h.png" />
+    <None Include="Resources\Revert_2.png" />
+    <None Include="Resources\Revert_1400640401.png" />
+    <None Include="Resources\cam-header.png" />
+    <None Include="Resources\close_button.png" />
+    <None Include="Resources\btn_rvg.png" />
+    <None Include="Resources\btn_camera.png" />
+    <None Include="Resources\btn_patient.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

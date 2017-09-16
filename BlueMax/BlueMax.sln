@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueMax", "BlueMax\BlueMax.csproj", "{B24AD5A0-18B0-417E-9FA8-06A21006521E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Maxiray2Setup", "Maxiray2Setup\Maxiray2Setup.vdproj", "{32074C42-922F-4BB2-8323-E6413D41C6AA}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://bekoturko.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BlueMax\\BlueMax.csproj
+		SccProjectName1 = BlueMax
+		SccLocalPath1 = BlueMax
+		SccProjectUniqueName2 = Maxiray2Setup\\Maxiray2Setup.vdproj
+		SccProjectName2 = Maxiray2Setup
+		SccLocalPath2 = Maxiray2Setup
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B24AD5A0-18B0-417E-9FA8-06A21006521E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24AD5A0-18B0-417E-9FA8-06A21006521E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24AD5A0-18B0-417E-9FA8-06A21006521E}.Debug|x64.ActiveCfg = Debug|x64
+		{B24AD5A0-18B0-417E-9FA8-06A21006521E}.Debug|x64.Build.0 = Debug|x64
+		{B24AD5A0-18B0-417E-9FA8-06A21006521E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B24AD5A0-18B0-417E-9FA8-06A21006521E}.Debug|x86.Build.0 = Debug|Any CPU
+		{B24AD5A0-18B0-417E-9FA8-06A21006521E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24AD5A0-18B0-417E-9FA8-06A21006521E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B24AD5A0-18B0-417E-9FA8-06A21006521E}.Release|x64.ActiveCfg = Release|x64
+		{B24AD5A0-18B0-417E-9FA8-06A21006521E}.Release|x64.Build.0 = Release|x64
+		{B24AD5A0-18B0-417E-9FA8-06A21006521E}.Release|x86.ActiveCfg = Release|x86
+		{B24AD5A0-18B0-417E-9FA8-06A21006521E}.Release|x86.Build.0 = Release|x86
+		{32074C42-922F-4BB2-8323-E6413D41C6AA}.Debug|Any CPU.ActiveCfg = Debug
+		{32074C42-922F-4BB2-8323-E6413D41C6AA}.Debug|x64.ActiveCfg = Debug
+		{32074C42-922F-4BB2-8323-E6413D41C6AA}.Debug|x64.Build.0 = Debug
+		{32074C42-922F-4BB2-8323-E6413D41C6AA}.Debug|x86.ActiveCfg = Debug
+		{32074C42-922F-4BB2-8323-E6413D41C6AA}.Debug|x86.Build.0 = Debug
+		{32074C42-922F-4BB2-8323-E6413D41C6AA}.Release|Any CPU.ActiveCfg = Release
+		{32074C42-922F-4BB2-8323-E6413D41C6AA}.Release|x64.ActiveCfg = Release
+		{32074C42-922F-4BB2-8323-E6413D41C6AA}.Release|x64.Build.0 = Release
+		{32074C42-922F-4BB2-8323-E6413D41C6AA}.Release|x86.ActiveCfg = Release
+		{32074C42-922F-4BB2-8323-E6413D41C6AA}.Release|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
